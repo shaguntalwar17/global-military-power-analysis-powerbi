@@ -49,7 +49,6 @@ The dashboard is structured across multiple analytical dimensions:
 - **Power Query** – data cleaning, transformation and integration  
 - **DAX** – calculated measures and comparative KPIs  
 - **LaTeX** – structured and professional report documentation
-- **Canva** - Project Poster Presentation
 - **Comparative Data Analysis & Visual Storytelling**
 
 ---
@@ -58,7 +57,6 @@ The dashboard is structured across multiple analytical dimensions:
 - Power BI Working File (`.pbix`)  
 - Power BI Dashboard (PDF export)    
 - Detailed Analytical Report (PDF, prepared using LaTeX)
-- Poster (PDF, prepared using Canva) 
 
 ---
 
