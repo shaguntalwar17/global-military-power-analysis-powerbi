@@ -1,7 +1,7 @@
 # Global Military Power Analysis – Power BI Project
 
 ## Project Overview
-Military power is shaped by a complex interaction of manpower, defense spending, air and naval capabilities, strategic resources, and geographic reach.  
+Military power is shaped by a complex interaction of manpower, defense spending, air and naval capabilities, strategic resources and geographic reach.  
 This project presents a **comparative, data-driven Power BI analysis** of global military power, transforming large and diverse defense datasets into clear, interpretable visual insights.
 
 The objective is to enable **comparative understanding**, not political judgment, by highlighting how different nations and regions allocate resources and project military capability.
@@ -10,9 +10,9 @@ The objective is to enable **comparative understanding**, not political judgment
 
 ## Objectives
 - Compare global military strength across countries and regions  
-- Analyze manpower composition, including active, reserve, and paramilitary forces  
+- Analyze manpower composition, including active, reserve and paramilitary forces  
 - Examine defense budgets and spending distribution  
-- Assess air, naval, and strategic asset capabilities  
+- Assess air, naval and strategic asset capabilities  
 - Visualize geographic and resource-related factors influencing military power  
 
 ---
@@ -21,12 +21,12 @@ The objective is to enable **comparative understanding**, not political judgment
 The dashboard is structured across multiple analytical dimensions:
 
 ### Manpower Strength
-- Active, reserve, and paramilitary personnel  
+- Active, reserve and paramilitary personnel  
 - Regional distribution of human military resources  
 
 ### Air, Naval & Economic Power
-- Fighter, attack, and transport aircraft comparisons  
-- Naval fleet strength, submarines, and carriers  
+- Fighter, attack and transport aircraft comparisons  
+- Naval fleet strength, submarines and carriers  
 - Defense budget distribution by country and region  
 
 ### Strategic Resources & Geography
@@ -37,8 +37,8 @@ The dashboard is structured across multiple analytical dimensions:
 ---
 
 ## Key Insights
-- Military power is **not determined by a single factor**; nations exhibit different strengths across manpower, spending, and assets.  
-- Some countries demonstrate **high defense spending with concentrated capabilities**, while others rely on manpower scale or geographic advantage.  
+- Military power is **not determined by a single factor**; nations exhibit different strengths across manpower, spending and assets.  
+- Some countries demonstrate **high defense spending with concentrated capabilities** while others rely on manpower scale or geographic advantage.  
 - Regional patterns reveal clear differences in strategic priorities and resource allocation.  
 - Infrastructure and energy resources play a significant supporting role in long-term military readiness.
 
@@ -46,23 +46,25 @@ The dashboard is structured across multiple analytical dimensions:
 
 ## Tools & Technologies
 - **Power BI Desktop** – dashboard development and interactive visualization  
-- **Power Query** – data cleaning, transformation, and integration  
+- **Power Query** – data cleaning, transformation and integration  
 - **DAX** – calculated measures and comparative KPIs  
-- **LaTeX** – structured and professional report documentation  
+- **LaTeX** – structured and professional report documentation
+- **Canva** - Project Poster Presentation
 - **Comparative Data Analysis & Visual Storytelling**
 
 ---
 
 ## Repository Contents
-- 📊 Power BI Working File (`.pbix`)  
-- 📄 Power BI Dashboard (PDF export)    
-- 📘 Detailed Analytical Report (PDF, prepared using LaTeX)   
+- Power BI Working File (`.pbix`)  
+- Power BI Dashboard (PDF export)    
+- Detailed Analytical Report (PDF, prepared using LaTeX)
+- Poster (PDF, prepared using Canva) 
 
 ---
 
 ## Data Notes & Limitations
 - The analysis is based on **aggregated and publicly available defense-related datasets**.  
-- Values represent **reported estimates**, not classified or real-time intelligence.  
+- Values represent **reported estimates** not classified or real-time intelligence.  
 - Military strength is multi-dimensional; this project focuses on **comparative visualization**, not absolute ranking or geopolitical conclusions.
 
 ---
